@@ -2,8 +2,8 @@
 
 
 ## Solved and Explained
-Add to array form of integer.py                         add two numbers.py                                      marge sorted array lists.py
-Basic Calculator.py                                     array nesting.py                                        max length repeated subarray.py
+Add to array form of integer.py.                          add two numbers.py.                                       marge sorted array lists.py. 
+Basic Calculator.py.                                      array nesting.py.                                         max length repeated subarray.py. 
 Delete N Nodes After M Nodes of a Linked List.py        binary tree tilt.py                                     max_ones.py
 Duplicate Zeroes.py                                     check for n and its double.py                           maximum subarray.py
 Evaluate reverse polish notation.py                     climbing stairs.py                                      multiply strings.py
